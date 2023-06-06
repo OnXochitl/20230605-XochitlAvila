@@ -1,0 +1,24 @@
+ 4036  git clone git@github.com:OnXochitl/20230605-XochitlAvila.git
+ 4037  20230605-XochitlAvila
+ 4038  touch comando.txt main.js index.html
+ 4039  ll
+ 4040  git add .
+ 4041  git status
+ 4042  git commit -m "commit 01 de Xochitl Avila"
+ 4043  git push origin main
+ 4044  git checkout -b feature
+ 4045  mkdir Hardware Software SeguridadInformatica
+ 4046  ll
+ 4047  touch Hardware/resumen.txt SeguridadInformatica/resumen.txt Software/resumen.txt
+ 4048  ll
+ 4049  ls -r
+ 4050  ls -R
+ 4051  git add .
+ 4052  git commit -m "commit 02 de Xochitl Avila"
+ 4053  git push origin feature
+ 4054  git branch main
+ 4055  git checkout main
+ 4056  mv main.js resumenHardware.txt
+ 4057  ll
+ 4058  mv index.html resumenSoftware.txt
+ 4059  code .
